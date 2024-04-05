@@ -6,6 +6,8 @@ This project is a simple "Guess the Number" game implemented in React.
 
 The "Guess the Number" game allows users to guess a randomly generated number within a specified range. After each guess, the game provides feedback on whether the guess is too high or too low until the user correctly guesses the number.
 
+## THESE BUGS WERE RESOLVED
+
 ## Bugs
 
 1. **After Win Background Color Not Changing**: Upon winning the game, the background color is supposed to change to green, indicating a correct guess. However, this functionality is currently not working.
